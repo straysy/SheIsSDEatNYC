@@ -3,7 +3,8 @@
 终于等到你🎉
 
 「<a href="http://mp.weixin.qq.com/s?__biz=MzU5NzMzNDkxNw==&mid=100000004&idx=1&sn=deba57882f376ecfbd6582273ebc5b3a&chksm=7e544fee4923c6f89e5b16cf15cfb083124f38349a084bc75407f81d20bfdeb6210d3aa2a10d#rd">我是田小齐</a>」
-从金工转CS的非典型程序员，坐标纽约。毕业后在先某知名投行做Quant Dev，后转行某大厂的SDE。
+从金工转CS的非典型程序员，坐标纽约。
+毕业后在先某知名投行做Quant Dev，后转行某大厂的SDE。
 
 在这里，我会更新四个板块：
 1. Java 技术文章
@@ -13,6 +14,5 @@
 
 点击「<a href="https://mp.weixin.qq.com/mp/homepage?__biz=MzU5NzMzNDkxNw==&hid=1&sn=fe0dcaacac68a695cb314689aca514cc">这里</a>」查看我的往期分类文章。
 最后，欢迎加我微信：nycsde7，期待与你相遇️️❤️
-
 
 
