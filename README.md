@@ -12,12 +12,13 @@
 ![](https://github.com/huiqit/Pictures/blob/master/%E5%85%AC%E4%BC%97%E5%8F%B7%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg)
  
 
-近期精选文章：  
-Spring 系列：  
-<a href="http://mp.weixin.qq.com/s?__biz=MzU5NzMzNDkxNw==&mid=100000157&idx=1&sn=6635b0d42c67782ba8668ae2f8ff4eed&chksm=7e544f774923c6610150595afaa1190c91e85cbabde65de02583870dd54d3c4b312d8b717338#rd">Spring 入门之前世今生，了解 Java 开发的主流框架演变之路</a>
+## 近期精选文章：  
+### Spring 系列：  
+<a href="http://mp.weixin.qq.com/s?__biz=MzU5NzMzNDkxNw==&mid=100000157&idx=1&sn=6635b0d42c67782ba8668ae2f8ff4eed&chksm=7e544f774923c6610150595afaa1190c91e85cbabde65de02583870dd54d3c4b312d8b717338#rd">Spring 入门之前世今生，了解 Java 开发的主流框架演变之路</a>  
+
 SpringIOC入门，搭建第一个 Spring 项目
 
-算法类文章：  
+### 算法类文章：  
 <a href="http://mp.weixin.qq.com/s?__biz=MzU5NzMzNDkxNw==&mid=100000157&idx=1&sn=6635b0d42c67782ba8668ae2f8ff4eed&chksm=7e544f774923c6610150595afaa1190c91e85cbabde65de02583870dd54d3c4b312d8b717338#rd">Spring 入门之前世今生，了解 Java 开发的主流框架演变之路</a>  
 [Find minimum in Rotate Sorted Array](http://mp.weixin.qq.com/s?__biz=MzU5NzMzNDkxNw==&mid=100000055&idx=1&sn=2b8f9f6ea5740e2af0ffaaafffea9be1&chksm=7e544fdd4923c6cb1daa0f4ad7020cb7a99d381711708b2a76837b4685e9158228047a63b857#rd) - 对应 Leetcode 153 & 154     
 [Find a target in Rotate Sorted Array](
