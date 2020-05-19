@@ -13,7 +13,11 @@
 
 ## 近期精选文章：  
 
-### 算法类文章：  
+### 算法和面试文章：  
+[从 LRU Cache 带你看面试的本质](https://juejin.im/post/5ec1c3a76fb9a0435749da1d)  
+  1. 重点讲如何选择数据结构的过程；  
+  2. 揭秘面试的“套路”  
+
 [从递归到 DP](https://juejin.im/post/5ea62fc8f265da47cc02aa60) —— 一题入门递归和 DP  
 
 [图文详解拓扑排序](http://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=100000183&idx=1&sn=09ea301acf7dd74656e9c78bea03f674&chksm=68f4918d5f83189ba10a3a5f845d16e95b95c48cec684b06e2ad6c313f35f2a4e2531bd9d8d7#rd) —— 别说你没听说过拓扑排序？这可是大厂面试必备题
@@ -28,13 +32,10 @@ http://mp.weixin.qq.com/s?__biz=MzU5NzMzNDkxNw==&mid=100000069&idx=1&sn=a4bf5b7e
 [2道关于开会的题](http://mp.weixin.qq.com/s?__biz=MzU5NzMzNDkxNw==&mid=100000088&idx=1&sn=464ddc7e3e1558a198a6c13b4b720db3&chksm=7e544fb24923c6a4283374504f035ea55f7274b7111db9458ea21153303a93080c57d5097258#rd) - 对应 Leetcode 252 & 253: Meeting Rooms  
    
 ### Spring 系列：  
-<a href="http://mp.weixin.qq.com/s?__biz=MzU5NzMzNDkxNw==&mid=100000157&idx=1&sn=6635b0d42c67782ba8668ae2f8ff4eed&chksm=7e544f774923c6610150595afaa1190c91e85cbabde65de02583870dd54d3c4b312d8b717338#rd">Spring 入门之前世今生，了解 Java 开发的主流框架演变之路</a>  
+[一分钟入门 Spring](https://juejin.im/post/5e8cdfa76fb9a03c947cca6e)  
 
-[一分钟带你玩转 Spring IoC](https://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=100000161&idx=1&sn=a296e01729bbb030c0715ede69cd333a&chksm=68f4919b5f83188dd4b6ac33c6ee7c2555903569d99af4b3d0c0d75eef6fe72ff4abd4dd43a5#rd)  
+[一分钟带你玩转 Spring IoC](https://juejin.im/post/5ea0b0bdf265da47cc02a37f)  
 
-Spring AOP 没有那么难  
-
-一文打尽 Spring 高频「面试题」
 
 
 
