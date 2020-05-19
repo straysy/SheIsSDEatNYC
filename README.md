@@ -3,12 +3,7 @@
 - B站：码农田小齐
 - 油管：She's SDE at NYC  
 
-
-你好，「<a href="http://mp.weixin.qq.com/s?__biz=MzU5NzMzNDkxNw==&mid=100000004&idx=1&sn=deba57882f376ecfbd6582273ebc5b3a&chksm=7e544fee4923c6f89e5b16cf15cfb083124f38349a084bc75407f81d20bfdeb6210d3aa2a10d#rd">我是田小齐</a>」
-从金工转CS的非典型程序员，坐标纽约。    
-毕业后在先在投行做 Quant Dev，现在某互联网公司 Java SDE.
-
-扫码关注，接收更多精彩文章:smirk: 
+扫码关注，第一时间接收更多精彩文章:smirk: 
 
 
 ![](https://github.com/huiqit/Pictures/blob/master/er.jpg)
