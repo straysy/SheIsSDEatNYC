@@ -17,34 +17,28 @@
 ![](https://github.com/huiqit/Pictures/blob/master/%E9%BD%90%E5%A7%90%E8%8F%9C%E5%8D%95.png)
 
 ### Networking
-[10+个真实案例告诉你 Linkedin 的正确勾搭方式](
+[10+个真实案例告诉你 Linkedin 的正确勾搭方式](http://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=100001156&idx=1&sn=5722dbaaa7db91ba888dfdebb1fd2051&chksm=68f495be5f831ca8638367f32a7352596120570e8ba7355d131475d5dee097c2241d7d22ac94#rd)
 
-### BQ 面试题系列：
-[面试常挂题：你最大的缺点是什么？]()
+### BQ 系列：
+[面试常挂题：你最大的缺点是什么？](http://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=100001078&idx=1&sn=e62b79ef90dbeb6a511cde598e1a18f4&chksm=68f4950c5f831c1a38dcc91562a7c0514f810836c28ca5395b3062fb810e5a19cd33df8f32ff#rd)
 
 
 ### 算法系列：
 
-[排序算法（一）](https://juejin.im/post/5ecb243ef265da76df75d859)
-- 插入排序 -> 希尔排序
-- 选择排序 -> 堆排序
+[插入&选择排序](http://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=100000660&idx=1&sn=c4bb44f5700e304bce10d43943a2f50f&chksm=68f493ae5f831ab8b7fa7fbca4265226248ac6c412f24cad6c9ee6035ec4d5c56cdcc550edac#rd)
 
-[排序算法（二）](https://juejin.im/post/5ecdb609518825433549c2f5)
-- 归并排序
-- 外排序
+[归并排序](http://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=100000707&idx=1&sn=1451c045270ba5278d121df641547603&chksm=68f493f95f831aefb881f53f81299eed19c20ea22f36e110baf1620a8f1eedea7c89b3723815#rd)
 
-[排序算法（三）—— 快速排序](https://juejin.im/post/5ed05164e51d4578447ff7dc)
+[快速排序](http://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=100000886&idx=1&sn=a6121c5eb2031646012fa434aee5f883&chksm=68f4944c5f831d5a3e49c3e6c1314a21d4658886ce3e4e72f0be8a5532514851418a1d3f4ccd#rd)
 
-[荷兰旗问题/彩虹排序/三色排序](https://juejin.im/post/5ed4660af265da76cd47ecf6) 
-[从 LRU Cache 带你看面试的本质](https://juejin.im/post/5ec1c3a76fb9a0435749da1d)  
-  1. 重点讲如何选择数据结构的过程；  
-  2. 揭秘面试的“套路”  
+[荷兰旗问题/彩虹排序/三色排序](http://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=100000907&idx=1&sn=a1edaefa4e6ccf82ecaa9f95a32d14ab&chksm=68f494b15f831da77f86042e4e560461a620def40f6ff8172a6ae778a210ab0385113d2f3a91#rd) 
+[从 LRU Cache 带你看面试的本质](http://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=100000273&idx=1&sn=fc87f93667fbc08138dedf987ef6a04a&chksm=68f4922b5f831b3de72d4a1f043193557eca52f81ac40c5d29db72919ffea0979a05d9481a7b#rd)   
 
-[从递归到 DP](https://juejin.im/post/5ea62fc8f265da47cc02aa60) —— 一题入门递归和 DP  
+[这才是面试官想听的：详解「递归」正确的打开方式](http://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=100000222&idx=1&sn=2882975d5ed764368ba09d352a1c3c36&chksm=68f491e45f8318f2140d980c6b73b1318e3ef8be31194f4cf3bce054bfe93dc433dcb19be2a9#rd) —— 一题入门递归和 DP  
 
-[图文详解拓扑排序](http://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=100000183&idx=1&sn=09ea301acf7dd74656e9c78bea03f674&chksm=68f4918d5f83189ba10a3a5f845d16e95b95c48cec684b06e2ad6c313f35f2a4e2531bd9d8d7#rd) —— 别说你没听说过拓扑排序？这可是大厂面试必备题
+[揭开「拓扑排序」的神秘面纱](http://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=100000183&idx=1&sn=09ea301acf7dd74656e9c78bea03f674&chksm=68f4918d5f83189ba10a3a5f845d16e95b95c48cec684b06e2ad6c313f35f2a4e2531bd9d8d7#rd) 
 
-[有关 HashMap 面试会问的一切](http://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=100000171&idx=1&sn=4e38e67791f3f67e15aea2e666f6d308&chksm=68f491915f831887f943356c45dac6c8ebacd1bef31432d0aec509ec3a3b835fe0c1f5c5cc4a#rd) —— 爆款文章
+[有关 HashMap 面试会问的一切](http://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=100000171&idx=1&sn=4e38e67791f3f67e15aea2e666f6d308&chksm=68f491915f831887f943356c45dac6c8ebacd1bef31432d0aec509ec3a3b835fe0c1f5c5cc4a#rd) 
 
 [Find minimum in Rotate Sorted Array](http://mp.weixin.qq.com/s?__biz=MzU5NzMzNDkxNw==&mid=100000055&idx=1&sn=2b8f9f6ea5740e2af0ffaaafffea9be1&chksm=7e544fdd4923c6cb1daa0f4ad7020cb7a99d381711708b2a76837b4685e9158228047a63b857#rd) - 对应 Leetcode 153 & 154     
 
