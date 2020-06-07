@@ -7,10 +7,8 @@
 
 欢迎加我[【私人微信】](#微信)提意见  
 
-[![](https://img.shields.io/badge/公众号-微信-brightgreen)](#微信)
+扫码关注，[![](https://img.shields.io/badge/公众号-私人微信-brightgreen)](#公众号)，第一时间接收精彩内容:smirk:   
 
-扫码关注，第一时间接收更多精彩文章:smirk:   
-![](https://github.com/huiqit/Pictures/blob/master/%E6%BC%AB%E7%94%BB5.gif)
 
 
  
@@ -56,7 +54,12 @@ http://mp.weixin.qq.com/s?__biz=MzU5NzMzNDkxNw==&mid=100000069&idx=1&sn=a4bf5b7e
 [一分钟带你玩转 Spring IoC](https://juejin.im/post/5ea0b0bdf265da47cc02a37f)  
 
 
-<a name="微信"></a> <a name="公众号"></a>
+
+扫码关注，第一时间接收更多精彩文章:smirk:   
+<a name="公众号"></a>
+![](https://github.com/huiqit/Pictures/blob/master/%E6%BC%AB%E7%94%BB5.gif)
+
+<a name="微信"></a> 
 ![](https://github.com/huiqit/Pictures/blob/master/%E5%BE%AE%E4%BF%A1%E5%8F%B7.JPG)
 
 
