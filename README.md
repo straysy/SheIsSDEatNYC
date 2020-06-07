@@ -1,7 +1,10 @@
 # 嘿，被你发现了～
 - 微信公众号/B站：码农田小齐:wink:  
 - 油管：She's SDE at NYC  
-这里将会打造最实用的 Offer 收割系列：从 networking 到简历项目刷题BQ面试到最后谈薪水，给我一个 Star，我们一起成长～  
+
+这里是齐姐打造的最实用的 Offer 收割系列：  
+从 networking 到简历项目刷题BQ面试到最后谈薪水，给我一个 Star，我们一起成长～  
+
 欢迎加我[【私人微信】](#微信)提意见  
 
 扫码关注，第一时间接收更多精彩文章:smirk: 
@@ -53,7 +56,7 @@ http://mp.weixin.qq.com/s?__biz=MzU5NzMzNDkxNw==&mid=100000069&idx=1&sn=a4bf5b7e
 [一分钟带你玩转 Spring IoC](https://juejin.im/post/5ea0b0bdf265da47cc02a37f)  
 
 
-
-
+<a name="微信"></a> <a name="公众号"></a>
+![](https://github.com/huiqit/Pictures/blob/master/%E5%BE%AE%E4%BF%A1%E5%8F%B7.JPG)
 
 
