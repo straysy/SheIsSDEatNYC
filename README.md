@@ -13,25 +13,26 @@
 
  
  
-# 菜单
+# 目录
 ![](https://github.com/huiqit/Pictures/blob/master/%E9%BD%90%E5%A7%90%E8%8F%9C%E5%8D%95.png)
 
 ### Networking
-[10+个真实案例告诉你 Linkedin 的正确勾搭方式](http://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=100001156&idx=1&sn=5722dbaaa7db91ba888dfdebb1fd2051&chksm=68f495be5f831ca8638367f32a7352596120570e8ba7355d131475d5dee097c2241d7d22ac94#rd)
+- [10+个真实案例告诉你 Linkedin 的正确勾搭方式](http://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=100001156&idx=1&sn=5722dbaaa7db91ba888dfdebb1fd2051&chksm=68f495be5f831ca8638367f32a7352596120570e8ba7355d131475d5dee097c2241d7d22ac94#rd)
 
 ### BQ 系列：
-[面试常挂题：你最大的缺点是什么？](http://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=100001078&idx=1&sn=e62b79ef90dbeb6a511cde598e1a18f4&chksm=68f4950c5f831c1a38dcc91562a7c0514f810836c28ca5395b3062fb810e5a19cd33df8f32ff#rd)
+- [面试常挂题：你最大的缺点是什么？](http://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=100001078&idx=1&sn=e62b79ef90dbeb6a511cde598e1a18f4&chksm=68f4950c5f831c1a38dcc91562a7c0514f810836c28ca5395b3062fb810e5a19cd33df8f32ff#rd)
 
 
 ### 算法系列：
+- 排序算法
+  - [插入&选择排序](http://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=100000660&idx=1&sn=c4bb44f5700e304bce10d43943a2f50f&chksm=68f493ae5f831ab8b7fa7fbca4265226248ac6c412f24cad6c9ee6035ec4d5c56cdcc550edac#rd)
 
-[插入&选择排序](http://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=100000660&idx=1&sn=c4bb44f5700e304bce10d43943a2f50f&chksm=68f493ae5f831ab8b7fa7fbca4265226248ac6c412f24cad6c9ee6035ec4d5c56cdcc550edac#rd)
+  - [归并排序](http://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=100000707&idx=1&sn=1451c045270ba5278d121df641547603&chksm=68f493f95f831aefb881f53f81299eed19c20ea22f36e110baf1620a8f1eedea7c89b3723815#rd)
 
-[归并排序](http://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=100000707&idx=1&sn=1451c045270ba5278d121df641547603&chksm=68f493f95f831aefb881f53f81299eed19c20ea22f36e110baf1620a8f1eedea7c89b3723815#rd)
+  - [快速排序](http://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=100000886&idx=1&sn=a6121c5eb2031646012fa434aee5f883&chksm=68f4944c5f831d5a3e49c3e6c1314a21d4658886ce3e4e72f0be8a5532514851418a1d3f4ccd#rd)
 
-[快速排序](http://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=100000886&idx=1&sn=a6121c5eb2031646012fa434aee5f883&chksm=68f4944c5f831d5a3e49c3e6c1314a21d4658886ce3e4e72f0be8a5532514851418a1d3f4ccd#rd)
+  - [荷兰旗问题/彩虹排序/三色排序](http://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=100000907&idx=1&sn=a1edaefa4e6ccf82ecaa9f95a32d14ab&chksm=68f494b15f831da77f86042e4e560461a620def40f6ff8172a6ae778a210ab0385113d2f3a91#rd) 
 
-[荷兰旗问题/彩虹排序/三色排序](http://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=100000907&idx=1&sn=a1edaefa4e6ccf82ecaa9f95a32d14ab&chksm=68f494b15f831da77f86042e4e560461a620def40f6ff8172a6ae778a210ab0385113d2f3a91#rd) 
 [从 LRU Cache 带你看面试的本质](http://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=100000273&idx=1&sn=fc87f93667fbc08138dedf987ef6a04a&chksm=68f4922b5f831b3de72d4a1f043193557eca52f81ac40c5d29db72919ffea0979a05d9481a7b#rd)   
 
 [这才是面试官想听的：详解「递归」正确的打开方式](http://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=100000222&idx=1&sn=2882975d5ed764368ba09d352a1c3c36&chksm=68f491e45f8318f2140d980c6b73b1318e3ef8be31194f4cf3bce054bfe93dc433dcb19be2a9#rd) —— 一题入门递归和 DP  
