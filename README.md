@@ -7,7 +7,7 @@
 
 欢迎加我[【私人微信】](#微信)提意见  
 
-[![](https://img.shields.io/badge/WeChat-微信群-brightgreen)](#微信)
+[![](https://img.shields.io/badge/公众号-微信-brightgreen)](#微信)
 
 扫码关注，第一时间接收更多精彩文章:smirk:   
 ![](https://github.com/huiqit/Pictures/blob/master/%E6%BC%AB%E7%94%BB5.gif)
