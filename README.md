@@ -10,7 +10,7 @@
 扫码关注，第一时间接收更多精彩文章:smirk: 
 
 
-![](https://github.com/huiqit/Pictures/blob/master/er.jpg)
+![齐姐菜单](https://github.com/huiqit/Pictures/blob/master/%E9%BD%90%E5%A7%90%E8%8F%9C%E5%8D%95.png)
  
  
 # 菜单
