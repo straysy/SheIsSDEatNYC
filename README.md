@@ -11,7 +11,6 @@
 [![](https://img.shields.io/badge/Wechat-私人微信-red)](#微信)
 [![](https://img.shields.io/badge/哔哩哔哩-B站-ff69b4)](https://space.bilibili.com/494413969)
 [![](https://img.shields.io/badge/Youtube-油管-ff69b4)](https://www.youtube.com/channel/UCs9h4-b9r6yR1zl4yf6lCmQ)
-[![](https://img.shields.io/badge/知乎-zhihu-blue)](https://space.bilibili.com/494413969)
 [![](https://img.shields.io/badge/掘金-juejin-9cf)](https://juejin.im/user/5e8b95d0e51d4546fa452087/posts)
 [![](https://img.shields.io/badge/思否-segmentfault-success)](https://segmentfault.com/u/xiaoqibenqi/articles)
  
