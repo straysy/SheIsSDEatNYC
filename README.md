@@ -10,7 +10,7 @@
 [![](https://img.shields.io/badge/Youtube-油管-ff69b4)](https://www.youtube.com/channel/UCs9h4-b9r6yR1zl4yf6lCmQ)
 [![](https://img.shields.io/badge/掘金-juejin-9cf)](https://juejin.im/user/5e8b95d0e51d4546fa452087/posts)
 [![](https://img.shields.io/badge/思否-segmentfault-ff69b4)](https://segmentfault.com/u/xiaoqibenqi/articles)
-[![](https://img.shields.io/badge/记得给我-Star-success)]
+[![](https://img.shields.io/badge/记得给我-Star-success)](https://github.com/huiqit/SheIsSDEatNYC)
  
 
 ### Networking
