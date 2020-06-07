@@ -5,16 +5,14 @@
 这里是齐姐打造的最实用的 Offer 收割系列：  
 从 `networking` 到`简历` `项目` `刷题` `BQ` `面试` 到最后 `谈薪水`，给我一个 Star，我们一起成长～  
 
-欢迎加我[【私人微信】](#微信)提意见  
+欢迎扫码[【关注公众号】](#公众号)或者加我[【私人微信】](#微信)提意见  
 
-扫码关注，[![](https://img.shields.io/badge/公众号-私人微信-brightgreen)](#公众号)，第一时间接收精彩内容:smirk:   
-
+[![](https://img.shields.io/badge/公众号-码农田小齐-brightgreen)](#公众号)
+[![](https://img.shields.io/badge/私人微信-小齐本齐-brightgreen)](#微信)
+[![](https://img.shields.io/badge/哔哩哔哩-B站-brightgreen)](https://space.bilibili.com/494413969)
 
 
  
- 
-# 目录
-![](https://github.com/huiqit/Pictures/blob/master/%E9%BD%90%E5%A7%90%E8%8F%9C%E5%8D%95.png)
 
 ### Networking
 - [10+个真实案例告诉你 Linkedin 的正确勾搭方式](http://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=100001156&idx=1&sn=5722dbaaa7db91ba888dfdebb1fd2051&chksm=68f495be5f831ca8638367f32a7352596120570e8ba7355d131475d5dee097c2241d7d22ac94#rd)
