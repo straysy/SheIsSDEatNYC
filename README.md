@@ -24,7 +24,7 @@
 
 
 ### 算法系列：
-- 排序算法
+排序算法
   - [插入&选择排序](http://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=100000660&idx=1&sn=c4bb44f5700e304bce10d43943a2f50f&chksm=68f493ae5f831ab8b7fa7fbca4265226248ac6c412f24cad6c9ee6035ec4d5c56cdcc550edac#rd)
 
   - [归并排序](http://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=100000707&idx=1&sn=1451c045270ba5278d121df641547603&chksm=68f493f95f831aefb881f53f81299eed19c20ea22f36e110baf1620a8f1eedea7c89b3723815#rd)
