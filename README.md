@@ -1,6 +1,6 @@
 # 嘿，被你发现了～
 这里是齐姐打造的最实用的 Offer 收割系列：  
-从 `networking` 到`简历` `项目` `刷题` `BQ` `面试` 到最后 `谈薪水`，[给我一个 Star](https://github.com/huiqit/SheIsSDEatNYC)，我们一起成长～  
+从 `networking` 到`简历` `项目` `刷题` `BQ` `面试` 到最后 `谈薪水`，[【给我一个 Star】](https://github.com/huiqit/SheIsSDEatNYC)，我们一起成长～  
 
 欢迎扫码[【关注公众号】](#公众号)或者加我[【私人微信】](#微信)提意见  
 
