@@ -1,7 +1,8 @@
 # 嘿，被你发现了～
-- 微信公众号：码农田小齐:wink: 【技术文章 + 职场心得】
-- B站：码农田小齐 【面试技巧 & Leetcode 题解】
+- 微信公众号/B站：码农田小齐:wink:  
 - 油管：She's SDE at NYC  
+这里将会打造最实用的 Offer 收割系列：从 networking 到简历项目刷题BQ面试到最后谈薪水，给我一个 Star，我们一起成长～  
+欢迎加我[【私人微信】](#微信)提意见  
 
 扫码关注，第一时间接收更多精彩文章:smirk: 
 
@@ -9,12 +10,14 @@
 ![](https://github.com/huiqit/Pictures/blob/master/er.jpg)
  
 
-## 近期精选文章：  
+### Networking
+[10+个真实案例告诉你 Linkedin 的正确勾搭方式](
+
 ### BQ 面试题系列：
 [面试常挂题：你最大的缺点是什么？]()
 
 
-### 漫画算法系列：
+### 算法系列：
 
 [排序算法（一）](https://juejin.im/post/5ecb243ef265da76df75d859)
 - 插入排序 -> 希尔排序
@@ -26,9 +29,7 @@
 
 [排序算法（三）—— 快速排序](https://juejin.im/post/5ed05164e51d4578447ff7dc)
 
-[荷兰旗问题/彩虹排序/三色排序](https://juejin.im/post/5ed4660af265da76cd47ecf6)
-
-### 算法和面试文章：  
+[荷兰旗问题/彩虹排序/三色排序](https://juejin.im/post/5ed4660af265da76cd47ecf6) 
 [从 LRU Cache 带你看面试的本质](https://juejin.im/post/5ec1c3a76fb9a0435749da1d)  
   1. 重点讲如何选择数据结构的过程；  
   2. 揭秘面试的“套路”  
