@@ -8,13 +8,13 @@
 欢迎加我[【私人微信】](#微信)提意见  
 
 扫码关注，第一时间接收更多精彩文章:smirk: 
+![](https://github.com/huiqit/Pictures/blob/master/%E5%85%AC%E4%BC%97%E5%8F%B7%E4%BA%8C%E7%BB%B4%E7%A0%81.JPG)
 
 
-![齐姐菜单](https://github.com/huiqit/Pictures/blob/master/%E9%BD%90%E5%A7%90%E8%8F%9C%E5%8D%95.png)
  
  
 # 菜单
-https://github.com/huiqit/Pictures/blob/master/%E6%BC%AB%E7%94%BB5.gif
+![](https://github.com/huiqit/Pictures/blob/master/%E9%BD%90%E5%A7%90%E8%8F%9C%E5%8D%95.png)
 
 ### Networking
 [10+个真实案例告诉你 Linkedin 的正确勾搭方式](
